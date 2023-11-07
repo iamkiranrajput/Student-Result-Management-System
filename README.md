@@ -1,11 +1,6 @@
 # Student-Result-Management-System
 This is a Java console-based program that allows students to register for their examinations and view their results. The program calculates and displays results for multiple students.
 
-## Project Preview
-![javaproject](https://github.com/iamkiranrajput/Student-Result-Management-System/assets/68410560/862b7fcf-a217-453a-a71a-23b5c5d0c9d4)
-
-
-
 ## Features
 
 - Student registration with details like name, enrollment number, seat number, course, semester, and subjects.
